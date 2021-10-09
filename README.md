@@ -1,6 +1,6 @@
 # A_mute_smart_ward
-The aim of this project is to provide additional support to a mute people in a ward . This support has to make those  people  with such disabilities feel more empowered and protect them from falling in critical condition.
-  # Getting Started with print and generate pdf. 
+The aim of this project is to provide additional support to a mute people in a ward. This support has to make those  people  with such disabilities feel more empowered and protect them from falling in critical condition.
+  # Getting Started with creating a mute smart wared. 
 
 ## Available Scripts
 
@@ -20,21 +20,27 @@ In the project directory, you can run:
 <a href="https://camo.githubusercontent.com/5ffd853b0824728d0a8ce1f5dd3634891bb73fe5c560b423eb45c0e34be4581c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3736344142433f7374796c653d666c61742d737175617265266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465" rel="nofollow"><img alt="Python" src="https://camo.githubusercontent.com/5ffd853b0824728d0a8ce1f5dd3634891bb73fe5c560b423eb45c0e34be4581c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3736344142433f7374796c653d666c61742d737175617265266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
 ### TECHNOLOGY
 <p>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+</a>
+<a href="https://www.arduino.cc/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+</a>
 <a href="https://reactjs.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
 </a>
 <a href="https://html.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/> 
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/> 
 </a>
 <a href="https://getbootstrap.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> 
 </a>
 
 </p>
